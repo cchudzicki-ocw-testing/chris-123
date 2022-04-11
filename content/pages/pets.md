@@ -12,4 +12,4 @@ cats
 
  
 
-Here is a resource  {{% resource_link 53cfaeef-57e4-4782-9652-669117bfd1e9 "leo.jpg" %}}link cool cool
+Here is a resource link cool cool
